@@ -13,5 +13,5 @@ Package.onUse(function (api) {
   api.add_files('faker.coffee', 'server');
   api.add_files('build/faker.js', 'client');
 
-  api.export('faker');
+  api.export('faker', 'server');
 });
