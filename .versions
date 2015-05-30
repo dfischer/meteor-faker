@@ -1,3 +1,4 @@
-digilord:faker@1.0.3
-meteor@1.1.4
-underscore@1.0.2
+coffeescript@1.0.6
+dfischer:faker@1.0.6
+meteor@1.1.6
+underscore@1.0.3

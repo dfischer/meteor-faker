@@ -1,5 +1,5 @@
 Package.describe({
-    summary: "Faker.js packaged for Meteor. Generate massive amounts of fake data. Port from digilord to allow on client",
+    summary: "Port from digilord to allow on client",
     name: "dfischer:faker",
     version: "1.0.6",
     git: "https://github.com/dfischer/meteor-faker"
